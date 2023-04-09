@@ -5,5 +5,5 @@ And in the menu in future I will provide a section on Medicine Description in wh
 
 <h1>Doctor Appointment</h1>
 
-<img src = "Front Page.jpeg" >
-<img src = "DashBoard.jpeg" >
+<img src = "Front Page.jpeg" width = "200px" >
+<img src = "DashBoard.jpeg"  width = "200px" >
